@@ -27,7 +27,7 @@ INBOX_BL_MSG: `*Inbox not allowed` ,
 
 HOST: `-` ,
 
-SESSION_ID: `ASTRO=pihCDbyR#cQ9eoJrRzWnWV5-bclrKwVBw06NhPWrsz2vPMcPnJ0s` 
+SESSION_ID: `` 
 
 
 };
