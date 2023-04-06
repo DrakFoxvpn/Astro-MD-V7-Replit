@@ -15,17 +15,17 @@ ALIVE_MSG: `default` ,
 
 LANG: `EN` ,
 
-ALIVE_LOGO: `https://i.imgur.com/v8iuP8v.jpg` ,
+ALIVE_LOGO: `https://github.com/Janithsadanuwan/Ari-Ani` ,
 
-FOOTER: `ᴀꜱᴛʀᴏ-ᴍᴅ ᴘᴜʙʟɪᴄ ꜱᴛᴀʙʟᴇ` ,
+FOOTER: `FoxALPHA-ᴍᴅ Bot` ,
 
-CAPTION: `*ɢᴇɴᴀʀᴀᴛᴇᴅ ʙʏ ᴀꜱᴛʀᴏ-ᴍᴅ*` ,
+CAPTION: `*🖥ɢᴇɴᴀʀᴀᴛᴇᴅ ʙʏ FoxAlpha*` ,
 
-ONLY_GROUP: `false`,
+ONLY_GROUP: `true`,
 
 INBOX_BL_MSG: `*Inbox not allowed` ,
 
-HOST: `-` ,
+HOST: `REPLIT` ,
 
 SESSION_ID: `` 
 
